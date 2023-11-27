@@ -1,0 +1,14 @@
+{
+  "name": "game",
+  "version": "1.0.0",
+  "description": "Final Project for WDD330 Falls 2023",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Melody Curran",
+  "license": "ISC",
+  "dependencies": {
+    "node": "^21.2.0"
+  }
+}
